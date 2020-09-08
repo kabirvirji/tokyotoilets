@@ -1,0 +1,61 @@
+.account-user-panel {
+    display: flex;
+    align-items: center;
+    margin-top: -25px;
+}
+
+.account-user-icon {
+    font-size: xx-large;
+    padding: 0 0.75em;
+}
+
+.account-button-accent {
+    border: none;
+    cursor: pointer;
+    background-color: #6192ff;
+    color: white;
+    height: 30px;
+    width: 80%;
+    margin: 5px;
+}
+
+.account-button-review {
+    border: none;
+    cursor: pointer;
+    background-color: #6192ff;
+    color: white;
+    height: 30px;
+}
+
+.account-button-review-disabled {
+    border: none;
+    cursor: pointer;
+    background-color: lightgray;
+    color: gray;
+    height: 30px;
+}
+
+.account-button {
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    cursor: pointer;
+    background-color: white;
+    color: #6192ff;
+    height: 30px;
+    width: 80%;
+    margin: 5px;
+}
+
+.account-trip-panel {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    padding: 10px;
+    margin: 15px 0;
+}
+
+.account-trip-panel-text {
+    margin: 5px 0;
+}

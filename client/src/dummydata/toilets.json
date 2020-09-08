@@ -1,0 +1,36 @@
+{
+    "allToilets": [
+        {
+            "id": 1,
+            "title": "Starbucks",
+            "latitude": 35.6603968,
+            "longitude": 139.6967135,
+            "type": "Full",
+            "accuracy": 87
+        }, 
+        {
+            "id": 2,
+            "title": "Shibuya 109",
+            "latitude": 35.6595771,
+            "longitude": 139.6965393,
+            "type": "Full",
+            "accuracy": 87
+        },
+        {
+            "id": 3,
+            "title": "Tokyu Department Store",
+            "latitude": 35.6606333,
+            "longitude": 139.6937807,
+            "type": "Full",
+            "accuracy": 87
+        },
+        {
+            "id": 4,
+            "title": "Lawson",
+            "latitude": 35.6565181,
+            "longitude": 139.6928917,
+            "type": "Full",
+            "accuracy": 87
+        }
+    ]
+}

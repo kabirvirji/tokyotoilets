@@ -1,0 +1,35 @@
+input.filter-checkbox {
+    width: 1.5em;
+    height: 1.5em;
+    padding: 10px;
+}
+
+.contribute-form {
+    text-align: center;
+    padding: 10px;
+}
+
+.contribute-form input {
+    width: 95%;
+    height: 30px;
+}
+
+.contribute-submit {
+    border: none;
+    cursor: pointer;
+    background-color: #6192ff;
+    color: white;
+    margin: 5px;
+}
+
+.contribute-back {
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    width: 95%;
+    height: 30px;
+    cursor: pointer;
+    color: #6192ff;
+    background-color: white;
+    margin: 5px;
+}

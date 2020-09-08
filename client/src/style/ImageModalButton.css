@@ -1,0 +1,24 @@
+.tutorial-button {
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    font-size: large;
+    color: #6192ff;
+}
+
+.tutorial-modal {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    overflow: scroll;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    text-align: center;
+}
+
+.tutorial-image {
+    height: 80%;
+    margin: auto;
+}

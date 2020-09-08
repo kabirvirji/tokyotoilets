@@ -1,0 +1,13 @@
+.navigation-button {
+    padding: 5px;
+    margin: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: x-large;
+    color: black;
+}
+
+.selected {
+    color: #6192ff;
+}

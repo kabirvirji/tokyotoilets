@@ -1,0 +1,7 @@
+.navigation-bar-body {
+    width: 100vw;
+    min-height: 7.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

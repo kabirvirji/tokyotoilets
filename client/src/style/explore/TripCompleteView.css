@@ -1,0 +1,19 @@
+.explore-complete-ok {
+    border: none;
+    cursor: pointer;
+    background-color: #6192ff;
+    color: white;
+    margin-top: 50px;
+    height: 30px;
+    width: 95%;
+}
+
+.explore-complete-center {
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.explore-complete-container {
+    display: flex;
+}

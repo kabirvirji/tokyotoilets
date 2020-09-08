@@ -1,0 +1,19 @@
+.contribute-result-ok {
+    border: none;
+    cursor: pointer;
+    background-color: #6192ff;
+    color: white;
+    margin-top: 50px;
+    height: 30px;
+    width: 95%;
+}
+
+.contribute-result-center {
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.contribute-result-container {
+    display: flex;
+}

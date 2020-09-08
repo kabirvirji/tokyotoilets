@@ -1,0 +1,2 @@
+yarn eslint . --ext .js,.jsx,.ts,.tsx
+yarn test
