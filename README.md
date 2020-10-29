@@ -1,5 +1,7 @@
 # Tokyo Toilets
 
+> Disclaimer: This was a self-driven school project (team of two including me) that was initially coded in a private repository. I ported the project over after the class finished, that is why there is no commit history. 
+
 ## Description 
 Tokyo Toilets is a toilet accessibility and education tool. It helps users find the closest public toilet available to them that suits their use case. Additionally, the application has toilet tutorials. The problem we are trying to solve is that there exists many tourists in Tokyo that struggle with using or finding toilets that suit their needs.
 
